@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T11:08:42.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="W3Lq8f4DkCcEWRJDhd6O" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T11:14:36.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BMqLdyOVhvUSfU2PPHvM" version="21.3.5" type="github">
   <diagram name="Page-1" id="Q7l8q0h_zOfylx8JE-fu">
     <mxGraphModel dx="980" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="HKXJuVYTZ4flzkgWFeM8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKXJuVYTZ4flzkgWFeM8-3" target="HKXJuVYTZ4flzkgWFeM8-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKXJuVYTZ4flzkgWFeM8-3" value="n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="HKXJuVYTZ4flzkgWFeM8-3" value="n: int" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HKXJuVYTZ4flzkgWFeM8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKXJuVYTZ4flzkgWFeM8-5">
@@ -26,10 +26,15 @@
             <mxPoint x="420" y="454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKXJuVYTZ4flzkgWFeM8-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKXJuVYTZ4flzkgWFeM8-5" target="HKXJuVYTZ4flzkgWFeM8-13">
+        <mxCell id="HKXJuVYTZ4flzkgWFeM8-23" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKXJuVYTZ4flzkgWFeM8-8">
+          <mxGeometry x="-0.341" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKXJuVYTZ4flzkgWFeM8-14" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKXJuVYTZ4flzkgWFeM8-5" target="HKXJuVYTZ4flzkgWFeM8-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HKXJuVYTZ4flzkgWFeM8-5" value="n &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HKXJuVYTZ4flzkgWFeM8-5" value="n &amp;gt; 0?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="414" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HKXJuVYTZ4flzkgWFeM8-9" value="sum = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
