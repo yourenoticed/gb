@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T10:34:43.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5og0csTKJjdwIKz3855W" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T10:35:19.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-6nKD2K9jE2WMGhI2SjP" version="21.3.5" type="github">
   <diagram name="Page-1" id="wMpuYx8QdSfnGK3CEeYz">
     <mxGraphModel dx="980" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="tn1NpZDobiUQKDQfB7rh-17" value="min = numbers[0]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tn1NpZDobiUQKDQfB7rh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tn1NpZDobiUQKDQfB7rh-20" target="tn1NpZDobiUQKDQfB7rh-21">
+        <mxCell id="tn1NpZDobiUQKDQfB7rh-18" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tn1NpZDobiUQKDQfB7rh-20" target="tn1NpZDobiUQKDQfB7rh-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tn1NpZDobiUQKDQfB7rh-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tn1NpZDobiUQKDQfB7rh-20" target="tn1NpZDobiUQKDQfB7rh-22">
+        <mxCell id="tn1NpZDobiUQKDQfB7rh-19" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tn1NpZDobiUQKDQfB7rh-20" target="tn1NpZDobiUQKDQfB7rh-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tn1NpZDobiUQKDQfB7rh-20" value="has the list ended?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
