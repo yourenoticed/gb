@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T10:50:38.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5Bde8P5aQ3q26632kplq" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T11:09:05.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lTrKyZqbhxS9ci67a7PU" version="21.3.5" type="github">
   <diagram name="Page-1" id="FCH0V2HY3VDnffZKWAp5">
     <mxGraphModel dx="980" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,16 +45,21 @@
         <mxCell id="a1BE07RjpAKSt0YaVKPH-12" value="factorial *= n - 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1BE07RjpAKSt0YaVKPH-14" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a1BE07RjpAKSt0YaVKPH-12" target="a1BE07RjpAKSt0YaVKPH-4">
+        <mxCell id="a1BE07RjpAKSt0YaVKPH-14" value="" style="endArrow=classic;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a1BE07RjpAKSt0YaVKPH-12" target="a1BE07RjpAKSt0YaVKPH-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="470" as="sourcePoint" />
-            <mxPoint x="490" y="420" as="targetPoint" />
+            <mxPoint x="220" y="600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="380" y="750" />
-              <mxPoint x="270" y="750" />
-              <mxPoint x="270" y="480" />
+              <mxPoint x="230" y="750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a1BE07RjpAKSt0YaVKPH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1BE07RjpAKSt0YaVKPH-15" target="a1BE07RjpAKSt0YaVKPH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1BE07RjpAKSt0YaVKPH-15" value="n -= 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
